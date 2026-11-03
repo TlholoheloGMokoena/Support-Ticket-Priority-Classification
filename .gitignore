@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+outputs/*.db
+.DS_Store
+# If you use real customer data, do NOT commit it:
+# data/Support_tickets.csv
