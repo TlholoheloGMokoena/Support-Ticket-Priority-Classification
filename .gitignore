@@ -1,0 +1,16 @@
+# Dataset (check privacy/licensing before sharing)
+Support_tickets.csv
+
+# Trained model and generated output
+support_ticket_model.pkl
+confusion_matrix.png
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
